@@ -14,8 +14,8 @@ Download and run AUTH: https://drive.google.com/file/d/1ADlic8_1zjC_0sfPzJK0zKHq
 Use the following public credentials to log in:
 
 Field,Value
-Login,FREEPAI
-Password,FREEPAI
+Login,FREEPI
+Password,FREEAPI
 
 This is typically a service or application. Replace the following with actual access details (e.g., a link to the web service, or installation instructions for a local app).
 
